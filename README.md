@@ -25,7 +25,7 @@ This depends on your distro, but if you can build the PC port and you have Andro
 
 **Clone the repository:**
 ```sh
-git clone --recursive https://github.com/VDavid003/sm64-port-android-base
+git clone --recursive https://github.com/Dominiquedb/sm64-port-android-base
 cd sm64-port-android-base
 ```
 
@@ -70,7 +70,7 @@ pacman -S unzip
 
 **Clone the repository:**
 ```sh
-git clone --recursive https://github.com/VDavid003/sm64-port-android-base
+git clone --recursive https://github.com/Dominiquedb/sm64-port-android-base
 ```
 
 **Copy in your baserom:**
@@ -102,7 +102,7 @@ gradlew.bat assembleDebug
 
 **Clone the repository:**
 ```sh
-git clone --recursive https://github.com/VDavid003/sm64-port-android-base
+git clone --recursive https://github.com/Dominiquedb/sm64-port-android-base
 ```
 
 **Create the build image:**

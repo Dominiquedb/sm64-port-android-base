@@ -1,3 +1,5 @@
+forked to use https://github.com/JustMeDaFaq/sm64-port-android with auto disappearing and reappearing touch controls
+
 # Super Mario 64 Android Port
 This is a port of the reconstructed Super Mario 64 source code to Android using SDL2 with OpenGL ES 2.0.
 

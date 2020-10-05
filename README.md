@@ -1,3 +1,5 @@
+forked to use https://github.com/JustMeDaFaq/sm64-port-android with auto disappearing and reappearing touch controls
+
 # sm64ex Android Port
 This is a port of the reconstructed Super Mario 64 source code to Android using SDL2 with OpenGL ES 2.0.
 
@@ -13,7 +15,7 @@ This depends on your distro, but if you can build the PC port and you have Andro
 
 **Clone the repository:**
 ```sh
-git clone --recursive https://github.com/VDavid003/sm64-port-android-base --branch sm64ex
+git clone --recursive https://github.com/Dominiquedb/sm64-port-android-base --branch sm64ex
 cd sm64-port-android-base
 ```
 
@@ -54,7 +56,7 @@ You'll need everything you need to make Windows builds (not just vanilla sm64 on
 
 **Clone the repository:**
 ```sh
-git clone --recursive https://github.com/VDavid003/sm64-port-android-base --branch sm64ex
+git clone --recursive https://github.com/Dominiquedb/sm64-port-android-base --branch sm64ex
 ```
 
 **Copy in your baserom:**
@@ -87,7 +89,7 @@ gradlew.bat assembleDebug
 
 **Clone the repository:**
 ```sh
-git clone --recursive https://github.com/VDavid003/sm64-port-android-base --branch sm64ex
+git clone --recursive https://github.com/Dominiquedb/sm64-port-android-base --branch sm64ex
 ```
 
 **Create the build image:**
